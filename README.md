@@ -46,11 +46,6 @@ BankB WorldBank 50
 BankA pays Rs50 to WorldBank via PayPal
 ```
 
-## Compilation & Execution
-```bash
-g++ -std=c++17 cash_flow_minimizer.cpp -o cash_flow_minimizer
-./cash_flow_minimizer
-```
 
 ## Key Benefits
 - Reduces transaction costs and processing time
